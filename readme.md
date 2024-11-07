@@ -17,7 +17,7 @@ node index.js <source> <dest> <oldDomain> <newDomain>
 
 ### PHP
 ```bash
-php script.php <source> <dest> <oldDomain> <newDomain>
+php index.php <source> <dest> <oldDomain> <newDomain>
 ```
 - `<source>`: The source file to read from.
 - `<dest>`: The destination file to write to.
