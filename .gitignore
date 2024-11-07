@@ -1,0 +1,11 @@
+# Directories
+.idea
+.code
+.vs
+
+# Files
+.gitignore
+./exports/**/*.*
+./resources/**/*.*
+!./exports/.gitkeep
+!./resources/.gitkeep
